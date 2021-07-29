@@ -1,0 +1,17 @@
+{
+    "username": "ck_eyd/bts.v",
+    "album": "v.part.",
+
+    "section_ignore": -1,
+    "max_pagination" : 2,
+
+    "pub_id": "pub-1434451780549044",
+    "app_id": "ca-app-pub-1434451780549044~5735345437",
+    "admob_banner_id": "ca-app-pub-1434451780549044/3847548694",
+    "admob_interstitial_id": "ca-app-pub-1434451780549044/4585560071",
+
+    "startapp_app_id": "206098712",
+
+    "interstitial_interval": 5,
+    "source":"github"
+}
